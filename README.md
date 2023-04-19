@@ -12,7 +12,7 @@ A Calculator Application built using HTML, CSS, and JavaScript!
 
 - Planning and designing the user interface that is easy to use and navigate.
 
-- HTML to structure the layout of the calculator.
+- HTML to structure the layout of the Calculator.
 
 - Adding Favicon to the website.
 
@@ -33,6 +33,8 @@ A Calculator Application built using HTML, CSS, and JavaScript!
 
 - Clear Button (C) to clear the Calculator's display.
 
+- Fully responsive and compatible with different screen sizes.
+
 
 ## 💡 Future Additions:
 
@@ -41,8 +43,6 @@ A Calculator Application built using HTML, CSS, and JavaScript!
 - Memory Functionality: Store and recall values.
 
 - Support for keyboard input.
-
-- Fully responsive and compatible with different screen sizes.
 
 
 ## 🎨 Color Reference
