@@ -5,7 +5,7 @@ A Calculator Application built using HTML, CSS, and JavaScript!
 
 ## 💻 Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?screenshot.png)
+![App Screenshot](https://github.com/Ishita1604/CalcuLIT/blob/main/screenshot.png)
 
 
 ## ✍️ Lessons Learnt
